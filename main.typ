@@ -25,7 +25,7 @@
 - Unity Associate Game Developer
 
 === Skills
-- Java, C\#, Python, Nix, HTML, CSS, Latex
+- Java, C\#, Python, Nix, HTML, CSS, Latex, Typst
 - Linux, Terminal, Git
 - Server Management and Networking
 - Office 365 Suite
