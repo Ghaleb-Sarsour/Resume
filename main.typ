@@ -14,10 +14,11 @@
 === Education
 #experience(
   place: "Georgia Institute of Technology",
-  time: [2028],
+  title: "Bachelors in Computer Science",
+  time: [05/2028],
 )[
-  - Pursuing a Bachelors in Computer Science
-  - Specialized in cybersecurity and system architecture
+  - Specialized in Cybersecurity and System Architecture
+  - Classes: Object Oriented Programming, Data Structures and Algorithms, Linear Algebra
 ]
 
 === Certifications
@@ -25,9 +26,9 @@
 - Unity Associate Game Developer
 
 === Skills
-- Java, C\#, Python, Nix, HTML, CSS, Latex, Typst
-- Linux, Terminal, Git
-- Server Management and Networking
+- Java, C\#, Python, Nix, Rust, HTML, CSS, Latex, Typst, Markdown
+- Linux, Terminal, Git 
+- Server Management, Docker, Firewall Configuration, Networking
 - Office 365 Suite
 
 === Experience
@@ -35,7 +36,7 @@
   place: "Improving Atlanta",
   title: "Web Development Intern",
   time: [11/2024--05/2025],
-  location: "Alpharetta, USA"
+  location: "Alpharetta, GA"
 )[
   - Developed websites using TypeScript and JavaScript Frameworks (Node, React, Next)
   - Implemented and parsed data from APIs 
@@ -48,9 +49,8 @@
   time: [10/2023--05/2024],
   location: "Remote"
 )[
-  - Designed core website outlines
-  - Generated website assets
-  - Created website content and prototypes
+  - Designed website outlines and prototypes using Figma
+  - Created website content using data gathered from Grafana
 ]
 
 === Projects
@@ -58,7 +58,7 @@
   place: "Portfolio Website"
 )[
   - Built with HTML, CSS, and JavaScript
-  - A clean and minimal website used to display certifications, projects, and resume
+  - A clean and minimal website used to display certifications, projects, and my resume
 ]
 
 #experience(
@@ -72,6 +72,6 @@
   place: "NixOS Server Template"
 )[
   - Built with Nix
-  - A template made to ease the creation of a NixOS server configuration
+  - A template made to ease the creation of a NixOS server for beginners
 ]
 
